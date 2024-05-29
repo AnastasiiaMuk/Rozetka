@@ -1,0 +1,18 @@
+{
+  "baseUrl":"https://rozetka.com.ua/ua/",
+  "homeUrl":"https://rozetka.com.ua/ua/",
+  "categoryLaptopsAndComputers":"Ноутбуки та комп’ютери",
+  "categoryLaptops":"Ноутбуки",
+  "brand":"apple",
+  "categorySmartphonesAndElectronics":"Смартфони, ТВ і електроніка",
+  "categoryMobilePhones":"Мобільні телефони",
+  "product1":"a[title='Ноутбук Apple MacBook Air 13\" M1 8/256GB 2020 (MGN63) Space Gray']",
+  "product2":"a[title='Мобільний телефон Apple iPhone 15 Pro Max 256GB Natural Titanium (MU793RX/A)']",
+  "maxPrice":60000,
+  "product1Title":"Мобільний телефон Apple iPhone 15 Pro Max 256GB Natural Titanium (MU793RX/A)",
+  "product2Title":"Ноутбук Apple MacBook Air 13\" M1 8/256GB 2020 (MGN63) Space Gray",
+  "product1Price":52999,
+  "product2Price":35999,
+  "searchProduct":"iPhone 15 Pro Max",
+  "searchProductByIncorrectName":"Apple MacBook"
+}
